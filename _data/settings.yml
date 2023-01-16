@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
+- {name: 'Lemmtec',     url: 'lemmtec'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -55,5 +55,5 @@ google-analytics-ua: 'UA-112060364-3'
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
+  comments: true
   disqus_shortname: ''
