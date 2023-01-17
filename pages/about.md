@@ -29,6 +29,7 @@ I finished **Bachelors Degree in Computer Science with a minor in Mathematics** 
 ## Employment
 
 It was at **UAH** that I had the opportunity to work on a few different group projects. This helped me realize the importance of programming as a team. I also became exposed to using github for version control within our projects. Just before the fall semester of my senior year, I began intern work at **Lemmtec**. This has been invaluable towards my knowledge of web applications. Under the employment of Lemmtec, I've had experience with: 
+
 - **Web Application** 
 - C#
 - Asp.net framework

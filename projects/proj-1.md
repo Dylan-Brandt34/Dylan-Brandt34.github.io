@@ -1,12 +1,36 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Sudoku Puzzle Solver'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+## Introduction ##
+Before I started development on the soduku solver, there were two things that I knew I wanted to familiarize myself more with. 
+- 1.) The Python Programming language 
+- 2.) Unit testing 
 
-{% include image="projects/proj-1/dog.jpg" %}
+Because of how much talk there has been the past few years regarding *Python*, I knew that I needed to give myself some more exposure to the language. Unit testing has always been something I've used from time to time in school and also in my current job, but I felt like building a project from the ground up while utilizing unit tests would help me understand the importance of the tool. When browsing sources for potential personal projects, a sudoku solver program was listed on a few sites. I personally enjoy solving sudoku puzzles, so I thought that it would be a great option for my first personal project. 
 
-{% image="projects/proj-1/wall.jpg" %}
+## Getting Started ##
+
+I began a few rough outlines of how the flow of my program should be performed [ shown below ] 
+
+
+{% image="projects/proj-1/Rough draw up of Sudoku plan.jpg" %}
+
+{% include image="projects/proj-1/more refine sudo code.jpg" %}
+
+
+
+These documents helped me find a starting point with my program and that was to first get the soduku puzzle stored in a way for the program to solve the puzzle. *It should be noted that although there is **alot** of sources online regarding how to build this program, I decided it would be in my best interest to design and build this program myself and then go about optimizing the project*. 
+
+## Custom Data Types ## 
+
+My thought process of how to go about solving a sudoku puzzle would turn a 2D array consisting of numbers and *blanks* into a 2D array of "Item" objects. The item class is shown below and is a very simple data type consisting of: 
+- A value (either a number or blank string)
+- A boolen called "editable" that is only true if item's constructor was sent an empty string. 
+
+### Show Item Class Definition Here ###
+
+
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
