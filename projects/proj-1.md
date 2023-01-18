@@ -14,9 +14,7 @@ Because of how much talk there has been the past few years regarding *Python*, I
 I began a few rough outlines of how the flow of my program should be performed [ shown below ] 
 
 
-{% image="projects/proj-1/Rough draw up of Sudoku plan.jpg" %}
-
-{% include image="projects/proj-1/more refine sudo code.jpg" %}
+### ---------------- Put draft photos here -------------------- ###
 
 
 
