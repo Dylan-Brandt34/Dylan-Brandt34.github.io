@@ -2,9 +2,9 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: 'projects'}
+- {name: 'Projects', url: ''}
 - {name: 'Lemmtec',  url: 'lemmtec'}
-- {name: 'About',    url: ''}
+- {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------

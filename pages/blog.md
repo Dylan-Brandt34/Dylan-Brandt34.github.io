@@ -1,5 +1,5 @@
 ---
-layout: blog
-title: Blog
-permalink: /blog
+layout: page
+title: Lemmtec
+permalink: /lemmtec
 ---

@@ -5,5 +5,6 @@ permalink: /contact
 ---
 
 # Contact
+If you happen to have any questions or any information regarding possible employment opportunities, please contact me through any of the following platforms: [dylanbrandt111@gmail.com](mailto:dylanbrandt111@gmail.com), [Linked In](https://www.linkedin.com/in/dylan-brandt-210896235/) or my personal phone number [ (931) 581-2719 ] . 
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+### I try to check all of these sources atleast once a day! ###
