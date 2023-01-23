@@ -18,7 +18,6 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/dylan_brandt34'}
 - {icon: 'github',    link: 'https://github.com/Dylan-Brandt34'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/dylan-brandt-210896235'}
 - {icon: 'envelope',  link: 'mailto:dylanbrandt111@gmail.com'}
