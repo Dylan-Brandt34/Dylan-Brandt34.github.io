@@ -24,9 +24,16 @@ When developing code for the frontend, I use **Visual Studio Code** to write in 
 ### **Backend Development** ### 
 Backend development is almost exclusively involved around creating restful api's in C#. These api's are used for retrieving, editing, and creating objects to be made onto the sql database. 
 
+<img src="{{ site.github.url }}/assets/img\projects/lemmtec/backend/SQL.png" alt="Avatar" class ="image">
+
+<img src="{{ site.github.url }}/assets/img\projects/lemmtec/backend/model.png" alt="Avatar" class ="image">
+
 **Photo of sql table**  **Photo of model**
 
 I have provided an example above of the **Project** table on the sql database as well as the project data type in the C# code. ASP.NET is used to execute SQL querries that accomplish the objectives of the api's. (Shown Below)
+
+<img src="{{ site.github.url }}/assets/img\projects/lemmtec/backend/ExecuteSQL.png" alt="Avatar" class ="image">
+<img src="{{ site.github.url }}/assets/img\projects/lemmtec/backend/C#SQL.png" alt="Avatar" class ="image">
 
 **Photo of SQL Statements** **Photo of cnn.whatever** 
 
@@ -36,4 +43,5 @@ The API's are set up to be called from the react code on the frontend. Depending
 The front end is built with **React.js** and is responsible for all of the visualization seen on the webpage (along with the help of CSS and HTML ofcourse). Because of javascript, the webpage can avoid reloading upon navigating through the different webpage. Each webpage utilizes the api's on the backend inorder to retrieve the data the webpage needs to be displayed. 
 
 **Photo of front end services** 
+<img src="{{ site.github.url }}/assets/img\projects/lemmtec/backend/frontend/ProjectService.png" alt="Avatar" class ="image">
 
