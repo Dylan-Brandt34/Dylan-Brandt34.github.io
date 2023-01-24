@@ -16,7 +16,7 @@ I began a few rough outlines of how the flow of my program should be performed [
 
 ### ---------------- Put draft photos here -------------------- ###
 
-<img src="{ site.github.url }}/assets/img\projects/sudoku/Rough draw up of Sudoku plan.png" alt="Avatar" style="height: 100px; width:100px;"/>
+<img src="{{ site.github.url }}/assets/img\projects/sudoku/Rough draw up of Sudoku plan.png" alt="Avatar" class ="image" style="height: 100px; width:100px;"/>
 
 <img src="{{ site.github.url }}/assets/img\projects/sudoku/more refine sudo code .png" alt="Avatar" class="image">
 
