@@ -15,8 +15,8 @@ I began a few rough outlines of how the flow of my program should be performed [
 
 
 ### ---------------- Put draft photos here -------------------- ###
-
-
+{% include image.html image="projects/sudoku/more refine sudo code .png" %}
+{% include image.html url="http://www.gratisography.com" image="projects/sudoku/Rough draw up of Sudoku plan.png" %}
 
 These documents helped me find a starting point with my program and that was to first get the soduku puzzle stored in a way for the program to solve the puzzle. *It should be noted that although there is **alot** of sources online regarding how to build this program, I decided it would be in my best interest to design and build this program myself and then go about optimizing the project*. 
 
@@ -30,6 +30,6 @@ My thought process of how to go about solving a sudoku puzzle would turn a 2D ar
 
 
 
-{% include image.html image="projects/proj-1/dog.jpg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+
+
