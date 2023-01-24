@@ -17,7 +17,8 @@ I began a few rough outlines of how the flow of my program should be performed [
 ### ---------------- Put draft photos here -------------------- ###
 
 ![](projects/sudoku/more refine sudo code .png)
-<img src="Dylan-Brandt34.github.io\assets\img\projects\sudoku\more refine sudo code .png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="{{ site.github.url }}/assets/img\projects/sudoku/more refine sudo code .png" alt="Avatar" class="image">
+
 <img src="assets\img\projects\sudoku\Rough draw up of Sudoku plan.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 These documents helped me find a starting point with my program and that was to first get the soduku puzzle stored in a way for the program to solve the puzzle. *It should be noted that although there is **alot** of sources online regarding how to build this program, I decided it would be in my best interest to design and build this program myself and then go about optimizing the project*. 
