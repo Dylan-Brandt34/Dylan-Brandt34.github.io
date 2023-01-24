@@ -14,9 +14,9 @@ Because of how much talk there has been the past few years regarding *Python*, I
 I began a few rough outlines of how the flow of my program should be performed [ shown below ] 
 
 
-### ---------------- Put draft photos here -------------------- ###
 
-<img src="{{ site.github.url }}/assets/img\projects/sudoku/Rough draw up of Sudoku plan.png" alt="Avatar" class ="image" style="height: 100px; width:100px;"/>
+
+<img src="{{ site.github.url }}/assets/img\projects/sudoku/Rough draw up of Sudoku plan.png" alt="Avatar" class ="image">
 
 <img src="{{ site.github.url }}/assets/img\projects/sudoku/more refine sudo code .png" alt="Avatar" class="image">
 
