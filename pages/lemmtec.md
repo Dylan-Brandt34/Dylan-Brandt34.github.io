@@ -32,8 +32,9 @@ Backend development is almost exclusively involved around creating restful api's
 
 I have provided an example above of the **Project** table on the sql database as well as the project data type in the C# code. ASP.NET is used to execute SQL querries that accomplish the objectives of the api's. (Shown Below)
 
-<img src="{{site.github.url}}/assets/img\projects/lemmtec/backend/ExecuteSQL.png" alt="Avatar" class ="image">
-<img src="{{site.github.url}}/assets/img\projects/lemmtec/backend/C#SQL.png" alt="Avatar" class ="image">
+<img src="
+{{site.github.url}}/assets/img\projects/lemmtec/backend/ExecuteSQL.png" alt="Avatar" class ="image">
+<img src="  {{site.github.url}}/assets/img\projects/lemmtec/backend/sqlquerries.png" alt="Avatar" class ="image">
 
 **Photo of SQL Statements** **Photo of cnn.whatever** 
 
